@@ -13,7 +13,7 @@ function App() {
     <body></body>
     <center>
     <div height = "4210%">  
-    <h1 style={{backgroundColor: "lightblue"}}>Places to visit in Delhi</h1></div>
+    <h1 style={{backgroundColor: "green"}}>Places to visit in Delhi</h1></div>
     <h4>
       <ul>
       <li><a href ='#a'>INDIA GATE</a></li>
